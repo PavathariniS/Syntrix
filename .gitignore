@@ -1,10 +1,11 @@
-__pycache__/
-*.pyc
 .venv/
 venv/
-.env
+__pycache__/
+*.pyc
 *.log
+.env
 *.key
 *.pem
 payload.py
 server_backup.py
+server_phase1_backup.py

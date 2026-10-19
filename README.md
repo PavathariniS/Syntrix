@@ -1,4 +1,5 @@
-# CyberLab – Network Security Testing GUI
+# SYNTRIX
+### Network Security Monitoring Dashboard
 
 CyberLab is a Python-based graphical application developed for learning network programming and cybersecurity concepts in a controlled laboratory environment.
 

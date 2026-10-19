@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+*.log
+*.key
+*.pem
+payload.py
+server_backup.py
